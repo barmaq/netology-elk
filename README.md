@@ -51,7 +51,7 @@ docker ps
 ![docker ps](/images/1_1.png)  
 
 интерфейс Kibana  
-![Kibana](/images/1_2.png.png)  
+![Kibana](/images/1_2.png)  
 
 
 
