@@ -67,13 +67,13 @@ docker ps
 ## *** Ответ 2 ***
 
 Data views
-![Data views](/images/2_1.png.png)  
+![Data views](/images/2_1.png)  
 
 Discover
-![Discover](/images/2_2.png.png)  
+![Discover](/images/2_2.png)  
 
 Visualisation
-![Visualisation](/images/2_3.png.png)  
+![Visualisation](/images/2_3.png)  
 
 
 ---
